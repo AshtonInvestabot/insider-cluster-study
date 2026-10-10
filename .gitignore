@@ -1,0 +1,8 @@
+# Adjusted prices downloaded from Yahoo Finance at run time.
+# Those series are not redistributable. data/clusters.csv stays tracked.
+data/prices/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
